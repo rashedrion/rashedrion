@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
 
 - 🔭 I’m currently working on Automation, Manual and API Testing 
-- 📫 How to reach me: Automation Testing, Manual Testing, API Testing 
+- 💬 Ask me about **Automation Testing, Manual Testing, API Testing**
 
 I graduated from Daffodil International University with a degree Bachelor of Science in Computer Science and Engineering. I am seeking a dynamic and innovative software firm to utilize my theoretical knowledge and practical skills to contribute to the development of high-quality software products. With a passion for software testing, attention to detail, and the ability to work collaboratively in a team, a quick learner, and a team player. Additionally, I am committed to continuous learning and staying up-to-date with the latest technologies and trends in software quality assurance.
 
