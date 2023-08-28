@@ -3,6 +3,10 @@
 </h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
 
+- 🔭 I’m currently working on **Automation, Manual and API Testing**
+
+- 💬 Ask me about **Manual Testing, API Testing, Automation Testing**
+
 - 📫 How to reach me **rashedrion81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
