@@ -15,7 +15,7 @@
 <a href="https://fb.com/https://www.facebook.com/cserashedrion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/cserashedrion/" height="30" width="40" /></a>
 </p>
 
-I graduated from Daffodil International University with a degree Bachelor of Science in Computer Science and Engineering. I am seeking a dynamic and innovative software firm to utilize my theoretical knowledge and practical skills to contribute to the development of high-quality software products. With a passion for software testing, attention to detail, and the ability to work collaboratively in a team, a quick learner, and a team player. Additionally, I am committed to continuous learning and staying up-to-date with the latest technologies and trends in software quality assurance.
+I'm a Software QA Engineer, I am fully dedicated and completely depend on the satisfaction of clients. With a passion for software testing, attention to detail, and the ability to work collaboratively in a team, a quick learner, and a team player. Additionally, I am committed to continuous learning and staying up-to-date with the latest technologies and trends in software quality assurance.
 
 
 **Skills:** Manual Testing/API Testing/ Automation Testing/ Selenium/Appium/Jmeter/Postman/Cucumber BDD/TestNG/Cypress
