@@ -15,8 +15,9 @@
 <a href="https://fb.com/https://www.facebook.com/cserashedrion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/cserashedrion/" height="30" width="40" /></a>
 </p>
 
-I'm a Software QA Engineer, I am fully dedicated and completely depend on the satisfaction of clients. With a passion for software testing, attention to detail, and the ability to work collaboratively in a team, a quick learner, and a team player. Additionally, I am committed to continuous learning and staying up-to-date with the latest technologies and trends in software quality assurance.
+Greetings! I'm a Software QA Engineer. I specialize in crafting robust testing strategies that identify and address potential issues early in the development lifecycle. I am fully dedicated and completely depend on the satisfaction of clients. With a passion for software testing.
 
+Beyond my technical expertise, I bring a collaborative spirit and a dedication to continuous improvement. I thrive on challenges, constantly seeking new ways to optimize processes and exceed expectations. With a focus on delivering value-driven solutions and fostering a culture of quality, I'm committed to driving the success of every project I undertake. Let's connect and explore how I can contribute to your team's success by ensuring the delivery of high-quality, reliable software solutions.
 
 **Skills:** Manual Testing/API Testing/ Automation Testing/ Selenium/Appium/Jmeter/Postman/Cucumber BDD/TestNG/Cypress
 
