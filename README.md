@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashedujjaman-rion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashedujjaman-rion/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/cserashedrion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/cserashedrion/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/cserashedrion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Rashedrion1/" height="30" width="40" /></a>
 </p>
 
 Greetings! I'm a Software QA Engineer. I specialize in crafting robust testing strategies that identify and address potential issues early in the development lifecycle. I am fully dedicated and completely depend on the satisfaction of clients. With a passion for software testing.
