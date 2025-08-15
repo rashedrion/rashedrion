@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing**
 
-- 📫 How to reach me **rashedrion81@gmail.com**
+- 📫 How to reach me **rashed.sqa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
